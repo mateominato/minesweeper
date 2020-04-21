@@ -1,0 +1,5 @@
+Week 7:
+
+This week I organized a lot of the code architeture, and built the basic structure of the text based game. I used some of the previous projects as building blocks. I still need to modify the class structure from the projects I used as foundation, figure out exactly which class methods I do and do not need, and modify some of the dynamic memory management.
+
+This upcoming week, I intend to finish this initial text based implementation in it's entirety. However, I won't begin graphics implementation or game polishing until the following week. As it stands, my project is on schedule. I will also have more time to work on the project in the coming weeks as I had midterms last week in other classes.

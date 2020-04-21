@@ -1,0 +1,3 @@
+Week 7:
+
+This past week, I finished a complete text based version of minesweeper using the architecture and building blocks established last week. The game is now entirely functional in text format, but I haven't bug tested thoroughly or polished some elements of the gameplay. In the coming week, I intend to throughly bug test, add some additional text functionality (such as choosing bomb density), and begin my graphics implemention. Hopefully, I will be able to finish a graphics implementation this week and use the final week purely to bug test, polish, and add additional functionality. If not, I still have the final week to finish a lot of that. However, progress at this point is on schedule and I'm feeling confident in my game.
