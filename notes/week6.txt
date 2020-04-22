@@ -1,5 +1,0 @@
-Week 6:
-
-This week, I finished planning my project, although I didn't start coding anything--I will begin the project in earnest this week, as we don't have a mandatory coding assignment. I plan to attempt to finish writing the basic functionality and compile a playable, mostly bug-free text-based implementation of Minesweeper by early to mid Week 8. That should give me plenty of time to polish the game in the remaining weeks.
-
-The main things I intend to do in the next week days are write the basic class and file structure, do some architectural planning, and create the hierarchy of my game. After that, I will begin conscious and thoughtful implementations of the game. This week, I also intend to do some preliminary research into simple C++ graphics libraries, so that I can make an intelligent choice and factor that into my game architecture.

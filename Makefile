@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -g -std=c++14
-FRAMEWORKS = -framework sfml-graphics -framework sfml-window -framework sfml-system
+FRAMEWORKS = -lsfml-graphics -lsfml-window -lsfml-system
 
 %.o: %.cpp
 	$(CXX) -c $(CXXFLAGS) $<
