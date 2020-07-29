@@ -5,8 +5,8 @@ FRAMEWORKS = -lsfml-graphics -lsfml-window -lsfml-system
 %.o: %.cpp
 	$(CXX) -c $(CXXFLAGS) $<
 
-testMinesweeper.exe: testMinesweeper.o minesweeper.o
+testMinesweeper: testMinesweeper.o minesweeper.o
 	$(CXX) -o $@ $(FRAMEWORKS) $^
 
 clean: 
-	$(RM) *.o *.exe
+	$(RM) *.o $(objects) testMinesweeper
